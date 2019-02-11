@@ -5,6 +5,11 @@
 
 .cap {text-transform: capitalize}
 
+body {
+    overflow-x: hidden; 
+}
+
+
 /* End Glopal */ 
 
 /* Start Navbar */ 
