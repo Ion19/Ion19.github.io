@@ -6,7 +6,7 @@
 .cap {text-transform: capitalize}
 
 body {
-    overflow-x: hidden; 
+    overflow-x: hidden !important ;
 }
 
 
