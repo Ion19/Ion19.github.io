@@ -5,8 +5,8 @@
 
 .cap {text-transform: capitalize}
 
-body {
-    overflow-x: hidden !important ;
+html {
+    overflow-x: hidden ;
 }
 
 
@@ -246,7 +246,8 @@ display: flex;
 /* Start Download */
 
 .download{
-    padding: 75px; 
+    padding-top: 75px; 
+    padding-bottom: 75px; 
 }
 
 .download h3 {
